@@ -1,5 +1,5 @@
 # 🐍 **Medusa Lite for Escape From Tarkov**
-
+![1](https://github.com/user-attachments/assets/fe6149ad-2202-45f4-b9bb-bd6e0b12d8be)
 ---
 
 ## 📸 **Screenshots**
